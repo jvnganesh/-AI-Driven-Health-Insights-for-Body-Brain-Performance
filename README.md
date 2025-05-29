@@ -5,6 +5,7 @@
 ---
 
 ## 📋 Overview
+<img width="1268" alt="image" src="https://github.com/user-attachments/assets/68b3c074-972e-4ef2-a3d4-1056a1dc843a" />
 
 The **Smart Health Monitoring System** is an AI-enhanced platform designed to promote both mental and physical well-being in gym environments. It enables gym owners and staff to proactively support clients by predicting mental health risks and offering personalized fitness recommendations.
 
